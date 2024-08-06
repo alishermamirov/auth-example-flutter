@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909795799929",
+    "project_id": "autendifikatiyaga-misol",
+    "storage_bucket": "autendifikatiyaga-misol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909795799929:android:40a1429c7e5432b232b5a8",
+        "android_client_info": {
+          "package_name": "uz.alisher.authex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZobhQU3L5ewFxevpJx0R0It-ERcM4OsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
